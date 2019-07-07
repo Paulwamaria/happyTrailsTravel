@@ -1,16 +1,20 @@
-##HAPPY TRAIL TRAVELLING AGENCY
+HAPPY TRAIL TRAVELLING AGENCY
+
 The website is meant to give more information about a travelling agency. The website is composed of the main page which is home page, a contacts page, an activities page, an accommodation page
 and generally give a styled short description of the various travel destinations.
 
 ##created by{Paul Kamau Wamaria} 
+
 This website is created as apractice of coding by Paul Kamau Wamaria 
 
 who is a student at Moringa.
 
 ##set up and installation
+
 just follow this link:
 
 ##licence
+
 MIT License
 
 Copyright (c) 2019 Paulwamaria
@@ -34,6 +38,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ##technologies used
+
 hTML and CSS
 
 
