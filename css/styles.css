@@ -1,0 +1,68 @@
+body{
+  background-color:gray;
+  display:block;
+margin:auto;
+}
+#header{
+background-color:black;
+  height:100%;
+}
+#navbar{
+  background-color:black;
+  display:flex;
+  justify-content:flex-end;
+  padding:2px 30px 2px 30px;
+  
+}
+a{
+  padding-left:10px;
+  text-decoration:none;
+}
+h1{
+  color:#094ea8;
+  text-align:center;
+  font-style:bold;
+  font-family:monospace;
+  background-color:black;
+}
+
+#watmu, #beyin{
+ 
+  padding:0px 10px 0px 10px;
+  height:360px;
+}
+p{
+  font-size:18px;
+  padding:0px 10px 0px 10px;
+}
+#krug{
+
+  padding:0px 10px 10px 10px;
+
+  height:540;
+
+}
+#maas{
+  width:540px;
+  height:360px;
+
+ 
+}
+.tropical, .popular{
+  width:720px;
+ 
+  margin:auto;
+  margin-top:5px;
+}
+@media screen and (min-width:720px){
+  .tropical, .popular{
+    width:1080px;
+    height:500px;
+  }
+  #watmu, #maas{
+    float:left;
+  }
+  #krug{
+    float:right;
+  }
+}
